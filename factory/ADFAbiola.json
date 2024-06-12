@@ -1,0 +1,9 @@
+{
+	"name": "ADFAbiola",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf50adb2-bb54-4536-ae62-8998b494bc6d",
+		"tenantId": "0150aa61-cf53-4a18-b70f-a175370e8791"
+	}
+}
